@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.3",
-    "notes":  "A chave de IA do cliente passa a valer de verdade (BYOK Gemini por HTTP). Antes o campo de Configuracoes era decorativo e a analise caia na heuristica sem avisar.",
-    "pub_date":  "2026-10-22T15:31:52Z",
+    "version":  "0.1.4",
+    "notes":  "Legenda legivel (cues de 0,30s), primeiro texto no frame 0 e nenhum cue passa do fim do clipe. Corrige falha de export com legenda automatica no 0.1.2/0.1.3.",
+    "pub_date":  "2026-10-22T20:04:58Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXJTWmZWVUlpL3BiTWdCdWZyWWt1dzdOQ01tM2NyQzIvVnFJSVJZYlMrM2NiMisvK3lXdVNsUjVMSUpPQmNTT0tYdE9LWXhjcG03R2g0a2IveFZMVXA4emNRU2RITEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgyNjQxCWZpbGU6Q2xpcGEgQcOtXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwpBL3RtcTNxMnZWMGtNSzI2K0hMVVFUVmt2L2RKRnhUWEV1L0tkWE43WEFleFFsbFJaei95akY0dncySnhhcnZOMTNkSmMzY0J2QjBvZ2VoVXYwWTNDdz09Cg==",
-                                             "url":  "https://github.com/Adrian9742/clips-ia-releases/releases/download/v0.1.3/ClipaAi_0.1.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXJTWmZWVUlpL28yWkp6blNpYTZ5Tm8xZFhMaHYwWUdmenNZWDY2eFNtUThPUlBDcXpkbXBjT1kyeGI4ZHBVcHVvSjZKbWpacy9PUHNyNUhxSmo1bG14aWhzNTdsandvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk5MTA3CWZpbGU6Q2xpcGEgQcOtXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNAptVzZubVdOVVZNSnUvUVR1RFdZSDZRdHp5MjhNTktNZzZJNlkvUWZiZmdkWlNDUWdmZXdmdjlKZmRQeGk1QnpuckxVa2NqM0pBNGNyd1JBL0NqeUVEUT09Cg==",
+                                             "url":  "https://github.com/Adrian9742/clips-ia-releases/releases/download/v0.1.4/ClipaAi_0.1.4_x64-setup.exe"
                                          }
                   }
 }
