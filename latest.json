@@ -1,0 +1,11 @@
+﻿{
+    "version":  "0.1.2",
+    "notes":  "ASR com confianca por palavra, guarda de legenda e 10 falhas cronicas de teste corrigidas. UI sincronizada com o frontend atual.",
+    "pub_date":  "2026-10-22T13:21:26Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXJTWmZWVUlpL2xoTFpRY3NiS0FtOUc5K0wvV3IrdGl3aTVqek9MUE1XWkF2STN2VDBob0RrZGVUUFBsNDVicXMvd2VWTklDdWRUT0J3UkFZK1hPVzU2bW05UWg0MFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc0MzM5CWZpbGU6Q2xpcGEgQcOtXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgo0Vms5a3FGVkZxTEFQbXIxeE9NUGZaR3JZUU9DYTJKaWwrZlA5OFN6VU9LcS91VXVYOEcxQ09Lb3lnTkRydVkvczhPY1N4ODdoN3g1SWd4Y1ozaWpCQT09Cg==",
+                                             "url":  "https://github.com/Adrian9742/clips-ia-releases/releases/download/v0.1.2/ClipaAi_0.1.2_x64-setup.exe"
+                                         }
+                  }
+}

@@ -1,6 +1,9 @@
-# Clipa Ai - canal de atualizacao
+﻿# Clipa Ai - canal de atualizacao
 
-Guarda apenas os binarios assinados e o latest.json que o app consulta para se atualizar.
+Este repositorio guarda apenas os binarios assinados do Clipa Ai e o latest.json
+que o aplicativo consulta para se atualizar.
 
-- O binario nao e segredo: a protecao e a licenca (HWID + token assinado).
-- Nao edite o latest.json a mao: ele e gerado por scripts/publicar-release.ps1.
+- O binario nao e segredo: a protecao do produto e a licenca (HWID + token
+  assinado), nao o sigilo do executavel.
+- Nao edite o latest.json a mao. Ele e gerado por
+  scripts/publicar-release.ps1 no repo clips-ia-desktop.
